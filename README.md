@@ -1,7 +1,3 @@
-Here's a GitHub Markdown for your repository:
-
----
-
 # Virtual Dice Game
 =====================
 
