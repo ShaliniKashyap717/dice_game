@@ -28,7 +28,7 @@ A simple web application that simulates a dice game between two players. The gam
 -------------------
 
 1. Clone the repository 
-2. Open the `index.html` file in a web browser to play the game.
+2. Open the `dicee.html` file in a web browser to play the game.
 3. Refresh the page to simulate new dice rolls and see the updated outcome.
 
 ## Contributing
